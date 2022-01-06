@@ -53,6 +53,7 @@ section{
 }
 .part{
     margin-left: 50%;
+    margin-top: 5%;
 }
 .mission{
     margin-left: 15%;
@@ -78,3 +79,14 @@ section{
 .project img{
     margin-right: 20%;
     width: 50%;
+    margin-left: 10%;
+}
+#corona{
+    background-image: url(shape-2.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
+}
+footer{
+    text-align: center;
+    background-color: lightslategrey;
+}
