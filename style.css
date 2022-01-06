@@ -51,10 +51,21 @@ section{
     margin: 20px;
     border:100% solid cadetblue; 
 }
-h2{
+.part{
     margin-left: 50%;
 }
 .mission{
     margin-left: 15%;
+    margin-right: 15%;
+}
+.coding{
+    display: flex;
+    margin-top: 5%;
+}
+.coding img{
+    width: 60%;
+    margin-left: 20%;
+}
+.limit{
     margin-right: 15%;
 }
