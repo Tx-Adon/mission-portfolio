@@ -30,7 +30,31 @@ section{
 .scroll{
     width: 100%;
     padding-left: 10%;
+    margin-bottom: 5%%;
+}
+.flexible{
+    display: flex;
+}
+.border{
+    background-color: lightgreen;
+    width: 300px;
+    border-radius: 2%;
+    padding: 10px;
+    margin: 20px;
+    border:100% solid cadetblue;
+}
+.goals{
+    background-color: lightsalmon;
+    width: 300px;
+    border-radius: 5%;
+    padding: 10px;
+    margin: 20px;
+    border:100% solid cadetblue; 
 }
 h2{
-   padding-left: 50%;
+    margin-left: 50%;
+}
+.mission{
+    margin-left: 15%;
+    margin-right: 15%;
 }
