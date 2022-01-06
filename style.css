@@ -51,6 +51,15 @@ section{
     margin: 20px;
     border:100% solid cadetblue; 
 }
+.blue{
+    background-color: lightsteelblue;
+    width: 300px;
+    border-radius: 5%;
+    padding: 10px;
+    margin: 20px;
+    border:100% solid cadetblue; 
+
+}
 .part{
     margin-left: 50%;
     margin-top: 5%;
